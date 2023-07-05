@@ -16,7 +16,7 @@ public static void main (String[]args) {
 			System.out.println("NEGATIVO");
 		}
 		else {
-			System.out.println("NÃO NEGATIVO");
+			System.out.println("NAO NEGATIVO");
 		}
 				
 		sc.close();
